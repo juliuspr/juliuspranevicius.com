@@ -4,4 +4,4 @@ draft: false
 type: "project"
 ---
 
-fdklsjfsdl;
+An interactive online calendar. Check it out at [https://www.elegantbooking.com/](https://www.elegantbooking.com/)

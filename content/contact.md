@@ -1,4 +1,8 @@
 ---
 title: "Contact"
-draft: true
+draft: false
 ---
+
+Work: julius.pranevicius@nmh.no
+
+Mobile: +47 93645146
