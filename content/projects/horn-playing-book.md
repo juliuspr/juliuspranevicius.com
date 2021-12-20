@@ -1,5 +1,6 @@
 ---
 title: "Horn Playing Book"
+linkTitle: "📯 📖 Horn Playing Book"
 draft: false
 categories:
   - homepage

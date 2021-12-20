@@ -1,4 +1,4 @@
-{{ define "main" }} {{.Content}}
+{{ define "main" }}{{.Content}}
 <div class="flex">
   {{ range .Site.Taxonomies.categories.homepage }}
   <a href="{{.RelPermalink}}" class="ma3">
@@ -13,4 +13,5 @@
 
   {{ end }}
 </div>
+
 {{ end }}

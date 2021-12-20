@@ -28,25 +28,25 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   [[menu.main]]
     identifier = "study-in-norway"
     url = "/study-in-norway/"
-    name = "Study Horn in Norway"
+    name = "🇳🇴 Study Horn in Norway"
     weight = 1
 
   [[menu.main]]
     identifier = "projects"
     url = "/projects/"
-    name = "Projects"
+    name = "💼 Projects"
     weight = 2
 
   [[menu.main]]
     identifier = "resources"
     url = "/resources/"
-    name = "Resources"
+    name = "📚 Resources"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
     url = "/contact/"
-    name = "Contact"
+    name = "✉️ Contact"
     weight = 4
 
   
