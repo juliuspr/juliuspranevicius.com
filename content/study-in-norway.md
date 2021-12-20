@@ -1,6 +1,6 @@
 ---
 title: "Study Horn at the Norwegian Academy of Music"
-linkTitle: "Study Horn in Norway"
+linkTitle: "🎓 🏫 Study Horn in Norway"
 draft: false
 categories:
   - homepage
@@ -14,3 +14,9 @@ Why study horn at the Norwegian Academy of Music?
 - Stimulating environment
 - Great school
 - Free tuition
+
+About me LINK
+
+About Steinar
+
+IMAGE from the previous ad
