@@ -2,91 +2,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Julius Pranevicius</title>
-    <link>file:/</link>
+    <link>https://juliuspranevicius.com/</link>
     <description>Recent content on Julius Pranevicius</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Dec 2021 14:50:16 +0100</lastBuildDate><atom:link href="file:/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://juliuspranevicius.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photos</title>
-      <link>file:/resources/photos/</link>
-      <pubDate>Mon, 20 Dec 2021 14:50:16 +0100</pubDate>
+      <link>https://juliuspranevicius.com/resources/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/resources/photos/</guid>
+      <guid>https://juliuspranevicius.com/resources/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering Scales</title>
+      <link>https://juliuspranevicius.com/projects/mastering-scales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliuspranevicius.com/projects/mastering-scales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>file:/resources/biography/</link>
-      <pubDate>Mon, 20 Dec 2021 14:50:12 +0100</pubDate>
+      <link>https://juliuspranevicius.com/resources/biography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/resources/biography/</guid>
-      <description></description>
+      <guid>https://juliuspranevicius.com/resources/biography/</guid>
+      <description>Julius Pranevičius is a professor for horn at the Norwegian Academy of Music. He has previously been the principal horn at the Norwegian Radio Orchestra. Julius is an active soloist and has premiered several works for horn. Julius regularly appears in chamber music festivals as well as a guest principal horn with the leading orchestras across Scandinavia.
+Julius Pranevičius, originally from Vilnius, Lithuania, received his first horn lessons at the age of 10, later continuing his studies in Lithuania, Norway and Germany.</description>
     </item>
     
     <item>
-      <title>Horn Playing</title>
-      <link>file:/resources/horn-playing/</link>
-      <pubDate>Mon, 20 Dec 2021 14:50:10 +0100</pubDate>
+      <title>Elegant Booking</title>
+      <link>https://juliuspranevicius.com/projects/elegant-booking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/resources/horn-playing/</guid>
-      <description></description>
+      <guid>https://juliuspranevicius.com/projects/elegant-booking/</guid>
+      <description>I have been developing an interactive calendar for some years. It facilitates scheduling lessons.
+Check it out at https://www.elegantbooking.com/</description>
     </item>
     
     <item>
-      <title>Horn Playing Book</title>
-      <link>file:/projects/horn-playing-book/</link>
-      <pubDate>Mon, 20 Dec 2021 13:53:08 +0100</pubDate>
+      <title>A Working Draft of the Book</title>
+      <link>https://juliuspranevicius.com/projects/horn-playing-book/draft-horn-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/projects/horn-playing-book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>file:/posts/my-first-post/</link>
-      <pubDate>Mon, 20 Dec 2021 12:16:11 +0100</pubDate>
-      
-      <guid>file:/posts/my-first-post/</guid>
+      <guid>https://juliuspranevicius.com/projects/horn-playing-book/draft-horn-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>file:/contact/</link>
+      <link>https://juliuspranevicius.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/contact/</guid>
+      <guid>https://juliuspranevicius.com/contact/</guid>
+      <description>Work: julius.pranevicius@nmh.no
+Mobile: +47 93645146</description>
+    </item>
+    
+    <item>
+      <title>Horn Concertos</title>
+      <link>https://juliuspranevicius.com/resources/horn-playing/sheet-music/horn-concertos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliuspranevicius.com/resources/horn-playing/sheet-music/horn-concertos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Elegant Booking</title>
-      <link>file:/projects/elegant-booking/</link>
+      <title>Low Horn Book</title>
+      <link>https://juliuspranevicius.com/resources/horn-playing/low-horn-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/projects/elegant-booking/</guid>
-      <description>fdklsjfsdl;</description>
+      <guid>https://juliuspranevicius.com/resources/horn-playing/low-horn-book/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Study Horn in Norway</title>
-      <link>file:/study-in-norway/</link>
+      <title>Mastering Scales</title>
+      <link>https://juliuspranevicius.com/resources/horn-playing/mastering-scales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/study-in-norway/</guid>
-      <description>Why would you study horn in Norway?
- Stimulating environment Free tuition  </description>
+      <guid>https://juliuspranevicius.com/resources/horn-playing/mastering-scales/</guid>
+      <description>Mastering Scales is a collection of exercises written out in each key.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>file:/projects/test/</link>
+      <title>Translation of J.-F. Gallay&#39;s Method</title>
+      <link>https://juliuspranevicius.com/projects/horn-playing-book/gallay-translation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:/projects/test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://juliuspranevicius.com/projects/horn-playing-book/gallay-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study Horn at the Norwegian Academy of Music</title>
+      <link>https://juliuspranevicius.com/study-in-norway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliuspranevicius.com/study-in-norway/</guid>
+      <description>LINKS TO NMH / BRASS / VIDEO
+Why study horn at the Norwegian Academy of Music?
+ Stimulating environment Great school Free tuition  About me LINK
+About Steinar
+IMAGE from the previous ad</description>
     </item>
     
   </channel>

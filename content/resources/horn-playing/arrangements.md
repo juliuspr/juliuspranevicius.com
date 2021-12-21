@@ -1,4 +1,0 @@
----
-title: "Arrangements"
-draft: true
----

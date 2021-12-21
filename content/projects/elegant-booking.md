@@ -4,5 +4,6 @@ draft: false
 type: "project"
 weight: 100
 ---
+I have been developing an interactive calendar for some years. It facilitates scheduling lessons.
 
-An interactive online calendar. Check it out at [https://www.elegantbooking.com/](https://www.elegantbooking.com/)
+Check it out at [https://www.elegantbooking.com/](https://www.elegantbooking.com/)

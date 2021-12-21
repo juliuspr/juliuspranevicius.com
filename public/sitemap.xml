@@ -2,46 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>file:/resources/</loc>
-    <lastmod>2021-12-20T14:50:16+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/resources/horn-playing/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/resources/photos/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/projects/horn-playing-book/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/projects/mastering-scales/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/projects/oslo-horns/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/resources/biography/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/projects/elegant-booking/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/</loc>
+  </url><url>
+    <loc>https://juliuspranevicius.com/posts/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>file:/</loc>
-    <lastmod>2021-12-20T14:50:16+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/projects/horn-playing-book/draft-horn-book/</loc>
   </url><url>
-    <loc>file:/resources/photos/</loc>
-    <lastmod>2021-12-20T14:50:16+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/categories/</loc>
   </url><url>
-    <loc>file:/resources/biography/</loc>
-    <lastmod>2021-12-20T14:50:12+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/contact/</loc>
   </url><url>
-    <loc>file:/resources/horn-playing/</loc>
-    <lastmod>2021-12-20T14:50:10+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/categories/homepage/</loc>
   </url><url>
-    <loc>file:/projects/</loc>
-    <lastmod>2021-12-20T13:53:08+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://juliuspranevicius.com/resources/horn-playing/sheet-music/horn-concertos/</loc>
   </url><url>
-    <loc>file:/projects/horn-playing-book/</loc>
-    <lastmod>2021-12-20T13:53:08+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/resources/horn-playing/low-horn-book/</loc>
   </url><url>
-    <loc>file:/posts/</loc>
-    <lastmod>2021-12-20T12:16:11+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://juliuspranevicius.com/resources/horn-playing/mastering-scales/</loc>
   </url><url>
-    <loc>file:/posts/my-first-post/</loc>
-    <lastmod>2021-12-20T12:16:11+01:00</lastmod>
+    <loc>https://juliuspranevicius.com/projects/</loc>
   </url><url>
-    <loc>file:/categories/</loc>
+    <loc>https://juliuspranevicius.com/resources/</loc>
   </url><url>
-    <loc>file:/contact/</loc>
+    <loc>https://juliuspranevicius.com/resources/horn-playing/sheet-music/</loc>
   </url><url>
-    <loc>file:/projects/elegant-booking/</loc>
+    <loc>https://juliuspranevicius.com/tags/</loc>
   </url><url>
-    <loc>file:/study-in-norway/</loc>
+    <loc>https://juliuspranevicius.com/projects/horn-playing-book/gallay-translation/</loc>
   </url><url>
-    <loc>file:/tags/</loc>
-  </url><url>
-    <loc>file:/projects/test/</loc>
+    <loc>https://juliuspranevicius.com/study-in-norway/</loc>
   </url>
 </urlset>
