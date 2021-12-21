@@ -8,4 +8,4 @@ categories_weight: 1000
 weight: 10
 ---
 
-I am working on a textbook for advanced horn students. I am still trying to find the best structure for the book. Here you will find a selection of sub-projects.
+I am working on a textbook for advanced horn students. Here you will find a selection of sub-projects.

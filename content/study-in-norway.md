@@ -1,6 +1,6 @@
 ---
 title: "Study Horn at the Norwegian Academy of Music"
-linkTitle: "📯 🇳🇴 Study in Norway"
+linkTitle: "📯 🇳🇴 Study Horn in Norway"
 draft: false
 categories:
   - homepage

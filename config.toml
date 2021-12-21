@@ -40,14 +40,20 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   [[menu.main]]
     identifier = "resources"
     url = "/resources/"
-    name = "📚 Resources"
+    name = "🗃 Resources"
     weight = 3
-
+    
+  [[menu.main]]
+    identifier = "press-kit"
+    url = "/press-kit/"
+    name = "🗞 Press Kit"
+    weight = 4
+ 
   [[menu.main]]
     identifier = "contact"
     url = "/contact/"
     name = "✉️ Contact"
-    weight = 4
+    weight = 5 
 
   
   
