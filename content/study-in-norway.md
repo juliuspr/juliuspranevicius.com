@@ -8,9 +8,11 @@ categories_weight: 1
 weight: 10
 ---
 
+
+
 LINKS TO NMH / BRASS / VIDEO
 
-Why study horn at the Norwegian Academy of Music?
+## Why study horn at the Norwegian Academy of Music?
 
 - Stimulating environment
 - Great school
