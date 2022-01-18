@@ -14,5 +14,8 @@
 	path = themes/relearn
 	url = https://github.com/McShelby/hugo-theme-relearn.git
 [submodule "library"]
-	path = library
+	path = themes/library
 	url = https://github.com/juliuspr/hugo-theme-library.git
+[submodule "themes/listed-again"]
+	path = themes/listed-again
+	url = https://github.com/juliuspr/hugo-theme-listed-again.git
