@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="mb-12 text-center">by <a href="https://juliuspranevicius.com" class="underline">Julius Pranevičius</a></div>
+
+<main id="main">
+  {{ if eq .Params.view "list-essays"}}
+    {{ partial "list-essays.html" . }}
+  {{ else }}
+    {{ partial "strategy-overview.html" . }}
+  {{end}}
+</main>
+
+{{ end }}

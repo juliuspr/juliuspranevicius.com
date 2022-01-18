@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<div class="mb-12 text-center">
+  {{ partial "breadcrumbs.html" . }}
+</div>
+
+
+<main id="main">
+  <section class="w-2/4 mx-auto">
+    <div class="text-2xl italic">
+      {{.Description}}
+    </div>
+    <div class="prose prose-2xl mb-10">
+      {{.Content}}
+    </div>
+  </section>
+
+  {{ if (eq .Params.view "list-essays")}}
+    {{- partial "list-essays.html" . }}
+  {{ else if (eq .Params.view "strategy-overview")}}
+    {{- partial "strategy-overview.html" . }}
+  {{ else if (eq .Params.view "simple-list")}}
+    {{- partial "simple-list.html" . }}
+  {{ else if (eq .Params.view "translations")}}
+    {{- partial "translations.html" . }}
+  {{else}}
+    {{- partial "library.html" . }}
+  {{end}}
+</main>
+{{ end }}

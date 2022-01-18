@@ -1,4 +1,5 @@
 ---
-title: Projects I'm working on
+title: Projects
 linkTitle: Projects
+weight: 30
 ---

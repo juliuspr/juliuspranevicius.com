@@ -1,7 +1,7 @@
 baseURL = 'https://juliuspranevicius.com/'
 languageCode = 'en-us'
 title = 'Julius Pranevicius'
-theme = "library"
+theme = "papermod"
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 
@@ -36,12 +36,6 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     url = "/projects/"
     name = "💼 Projects"
     weight = 2
-
-  [[menu.main]]
-    identifier = "resources"
-    url = "/resources/"
-    name = "🗃 Resources"
-    weight = 3
 
   [[menu.main]]
     identifier = "press-kit"

@@ -1,5 +1,5 @@
 ---
-title: "Horn Playing Book"
+title: "Book on Horn Playing"
 linkTitle: "📯 📖 Horn Playing Book"
 draft: false
 categories:
@@ -8,4 +8,6 @@ categories_weight: 1000
 weight: 10
 ---
 
-I am working on a textbook for advanced horn students. Here you will find a selection of sub-projects.
+I am working on a textbook for advanced horn students. Check out the [working draft](https://hornclass.info).
+
+The book is still in early stages as I'm trying to find the right content and structure. I would appreciate your feedback and input. Do not hesitate to drop me a line.
