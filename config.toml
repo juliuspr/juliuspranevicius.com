@@ -1,7 +1,7 @@
 baseURL = 'https://juliuspranevicius.com/'
 languageCode = 'en-us'
 title = 'Julius Pranevicius'
-theme = "papermod"
+theme = "library"
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 
@@ -48,3 +48,13 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     url = "/contact/"
     name = "✉️ Contact"
     weight = 5
+
+# [module]
+#   [[module.imports]]
+#     path = 'github.com/juliuspr/on-hornplaying.git'
+#     ignoreConfig = false
+#     disable = false
+#
+#   [[module.mounts]]
+#     source = 'on-horn-playing'
+#     target = 'static/on-horn-playing'

@@ -13,7 +13,7 @@
 [submodule "themes/relearn"]
 	path = themes/relearn
 	url = https://github.com/McShelby/hugo-theme-relearn.git
-[submodule "library"]
+[submodule "themes/library"]
 	path = themes/library
 	url = https://github.com/juliuspr/hugo-theme-library.git
 [submodule "themes/listed-again"]
