@@ -1,21 +1,6 @@
-[submodule "themes/lines"]
-	path = themes/lines
-	url = https://github.com/ronv/lines.git
-[submodule "themes/listed"]
-	path = themes/listed
-	url = https://github.com/ronv/listed.git
-[submodule "themes/gokarna"]
-	path = themes/gokarna
-	url = https://github.com/526avijitgupta/gokarna.git
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/relearn"]
-	path = themes/relearn
-	url = https://github.com/McShelby/hugo-theme-relearn.git
 [submodule "themes/library"]
 	path = themes/library
 	url = https://github.com/juliuspr/hugo-theme-library.git
-[submodule "themes/listed-again"]
-	path = themes/listed-again
-	url = https://github.com/juliuspr/hugo-theme-listed-again.git
