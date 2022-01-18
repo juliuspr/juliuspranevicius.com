@@ -1,7 +1,7 @@
 baseURL = 'https://juliuspranevicius.com/'
 languageCode = 'en-us'
 title = 'Julius Pranevicius'
-theme = "papermod"
+theme = "library"
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 
@@ -11,7 +11,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   #   identifier = "posts"
 
   #   url = "/posts/"
-    
+
   #   # You can add extra information before the name (HTML format is supported), such as icons
   #   pre = ""
 
@@ -24,7 +24,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   #   # Weights are used to determine the ordering
   #   weight = 1
 
-  
+
   [[menu.main]]
     identifier = "study-in-norway"
     url = "/study-in-norway/"
@@ -42,18 +42,15 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     url = "/resources/"
     name = "🗃 Resources"
     weight = 3
-    
+
   [[menu.main]]
     identifier = "press-kit"
     url = "/press-kit/"
     name = "🗞 Press Kit"
     weight = 4
- 
+
   [[menu.main]]
     identifier = "contact"
     url = "/contact/"
     name = "✉️ Contact"
-    weight = 5 
-
-  
-  
+    weight = 5
