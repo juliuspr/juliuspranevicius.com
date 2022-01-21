@@ -6,7 +6,7 @@ weight: 30
 
 ## On Horn Playing
 
-I am working on a textbook for advanced horn students. Check out the [working draft](https://hornclass.info).
+I am working on a textbook for advanced horn students. It includes a range of resources for practicing. Check out the [working draft](https://hornclass.info).
 
 The book is still in early stages. I would appreciate your feedback and input. Do not hesitate to drop me a line.
 
