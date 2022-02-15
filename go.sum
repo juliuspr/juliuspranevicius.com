@@ -14,6 +14,8 @@ github.com/juliuspr/hugo-theme-library v0.0.0-20220215175238-1bfe8b5a0573 h1:pGj
 github.com/juliuspr/hugo-theme-library v0.0.0-20220215175238-1bfe8b5a0573/go.mod h1:SHR1h+4ifXXqGlsjRpZ+cqQhUKtIbQoRUzYYjuTdIrI=
 github.com/juliuspr/hugo-theme-library v0.0.0-20220215193937-a03641519ba3 h1:+EyelRg1rQ2qAf4HikEX0bkCuivy2/x7xrI9K/TeRoY=
 github.com/juliuspr/hugo-theme-library v0.0.0-20220215193937-a03641519ba3/go.mod h1:SHR1h+4ifXXqGlsjRpZ+cqQhUKtIbQoRUzYYjuTdIrI=
+github.com/juliuspr/hugo-theme-library v0.0.0-20220215205252-8c256665defc h1:6OWh4IMEj3xmS6+UswRu+854plsxGSB6PSYCZ9E/c2o=
+github.com/juliuspr/hugo-theme-library v0.0.0-20220215205252-8c256665defc/go.mod h1:SHR1h+4ifXXqGlsjRpZ+cqQhUKtIbQoRUzYYjuTdIrI=
 github.com/juliuspr/hugo-theme-listed-again v0.0.0-20220109125116-5972b6b70915 h1:ERBTlZ2MzDhYMyurDLU+R61H7tiRPVHl9F0gU9mwGV0=
 github.com/juliuspr/hugo-theme-listed-again v0.0.0-20220109125116-5972b6b70915/go.mod h1:KyD59BDV+n0DNPBk3SZwGpg+HDDEDs2AeRXPiwc+VW8=
 github.com/juliuspr/on-hornplaying v0.0.0-20220203091332-b4e25b964a7f h1:C6khGjlMEvbjjga926hBvT3GtctDptxUjBh4FxZI7Zs=
