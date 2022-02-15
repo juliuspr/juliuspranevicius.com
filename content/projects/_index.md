@@ -1,14 +1,18 @@
 ---
 title: Projects
-linkTitle: Projects
+linkTitle: 💼 Projects
 weight: 30
 ---
 
 ## On Horn Playing
 
-I am working on a textbook for advanced horn students. It includes a range of resources for practicing. Check out the [working draft](https://hornclass.info).
+A textbook for advanced horn students. Check out the [working draft](../on-horn-playing).
 
 The book is still in early stages. I would appreciate your feedback and input. Do not hesitate to drop me a line.
+
+## Resources for Horn Players
+
+A number of different projects. Resources for practicing, performing and inspiration. [Check out here.](../resources)
 
 ## Oslo Horns (OH.)
 
@@ -16,6 +20,6 @@ Check out [Oslo Horns website](http://oslohorns.com) and [Instagram](https://www
 
 ## Elegant Booking
 
-An interactive calendar to help with scheduling lessons.
+An interactive calendar that facilitates scheduling lessons.
 
-Check it out at [https://www.elegantbooking.com/](https://www.elegantbooking.com/)
+Check out at [https://www.elegantbooking.com/](https://www.elegantbooking.com/)

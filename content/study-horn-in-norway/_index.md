@@ -12,7 +12,7 @@ weight: 10
 
 Are you a talented horn player looking for a stimulating environment? The Norwegian Academy of Music is a great place to take your performance skills to the next level.
 
-Our Horn Studio offers excellent opportunities to reach your goals as a horn player. Lots of performing opportunities, up-to-date pedagogies, international guests, teacher and student collaboration. These are just some of the highlights, in addition to the excellent facilities that the Music Academy offers.
+Our Horn Studio offers excellent opportunities to reach your goals as a horn player. You'll get lots of performing opportunities, up-to-date pedagogic approach, international guests, teacher and student collaboration. These are just some of the highlights, in addition to the excellent facilities and a rich catalogue of elective courses.
 
 You can learn more about [the Brass Department](https://nmh.no/en/departments/brass) and [Admissions](https://nmh.no/en/apply). We offer studies at the Bachelor and Master level.
 
@@ -20,11 +20,11 @@ You can learn more about [the Brass Department](https://nmh.no/en/departments/br
 
 The Studio has between 14 and 16 students, with 2-3 student in each cohort.
 
-Tuition is organized with pedagogical principles in mind. We focus on student engagement and active learning. In addition to individual lessons you will receive group lessons in various formats - from small groups to the whole class.
+Tuition is organized with pedagogical principles in mind. We focus on student engagement and active learning. In addition to the traditional individual lessons you will receive group lessons in various sizes - from small groups to full class.
 
 In addition you will have the brass class, chamber music and orchestra. Academy's Brass and Woodwind ensembles often go on tours.
 
-The two main teachers - [Julius Pranevicius](https://juliuspranevicius.com) and [Steinar Granmo Nilsen](https://nmh.no/en/contact-us/employees/steinar-granmo-nilsen) - work together to offer a full range of modern and historical performance skills. Please reach out if you have any questions about the studies.
+The two main teachers - [Julius Pranevicius](https://juliuspranevicius.com) and [Steinar Granmo Nilsen](https://nmh.no/en/contact-us/employees/steinar-granmo-nilsen) - work together to offer a full range of modern and historical performance skills. Please reach out to us if you have any questions.
 
 Our tuition focuses on:
 

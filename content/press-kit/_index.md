@@ -1,5 +1,5 @@
 ---
-title: Press Kit
+title: 🗞 Press Kit
 weight: 40
 ---
 ## Biography
