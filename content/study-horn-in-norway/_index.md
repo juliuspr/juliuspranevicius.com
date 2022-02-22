@@ -42,5 +42,20 @@ The Horn Studio has an active collaboration with the Alexander Technique teacher
 - Great facilities
 - Free tuition [^fee]
 
+## Former Students
+
+Here are some of the students who have studied in the horn class of the Norwegian Academy of Music in recent years.
+
+- [Eirik Baardsen Haaland](https://www.tso.no/personer/eirik-baardsen-haaland) - Principal Horn at Trondheim Symphony Orchestra
+- [Lena Westlund](https://www.aalborgsymfoni.dk/OM-OS/M%C3%B8d-orkestrets-musikere/Lena-Westlund-) - Tutti Horn at Aalborg Symphony Orchestra
+- [Niklas Sebastian Grenvik](https://www.oslokammerakademi.com/om-oss#comp-k9zv5c6p9) - Horn Player at Oslo Kammerakademi
+- [Ida Holm Olaussen](https://arktiskfilharmoni.no/om-oss/medarbeidere/blasere/) - Principal Horn at the Arctic Philharmonic Orchestra
+- [Cara Watson](http://vratsasymphony.com/) - Horn Player at Vratsa Symphony Orchestra
+- [Johan Wahlgren](https://www.konserthuset.se/en/royal-stockholm-philharmonic-orchestra/members-in-the-orchestra/horn) - Royal Stockholm Philharmonic Orchestra. Former Principal at Aalborg Symphony Orchestra
+- [Kristine Hjertås Mauseth](https://kultur.forsvaret.no/forsvarets-musikk/forsvarets-stabsmusikkorps/ansatte) - Staff Band of the Norwegian Armed Forces
+- [Amanda Pettersen](https://kultur.forsvaret.no/forsvarets-musikk/kongelige-norske-marines-musikkorps/ansatte) - Royal Norwegian Navy Band
+- [Abel Perez Armas]() - The Norwegian Opera
+- [Stine Nermo](https://kultur.forsvaret.no/forsvarets-musikk/luftforsvarets-musikkorps/ansatte) - Royal Norwegian Air Force Band
+
 
 [^fee]: there is a small semester fee
