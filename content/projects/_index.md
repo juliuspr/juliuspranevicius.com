@@ -6,13 +6,9 @@ weight: 30
 ## Ongoing Projects
 ### On Horn Playing
 
-A textbook for advanced horn students. Check out the [working draft](../on-horn-playing).
+A broad set of resources for advanced horn students and enthusiasts. Check out the [working draft](../on-horn-playing).
 
-The book is still in early stages. Do not hesitate to drop me a line, if you have any feedback or input. It is highly appreciated.
-
-### Resources for Horn Players
-
-A number of different projects. Resources for practicing, performing and inspiration. [Check out here.](../resources)
+The project is in development and changes frequently. Do not hesitate to drop me a line, if you have any feedback or input.
 
 ### Oslo Horns (OH.)
 
