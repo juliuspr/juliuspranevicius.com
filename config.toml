@@ -65,21 +65,21 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
       target = 'static'
 
 
+  # #
+  # [[module.imports]]
+  #   path = 'github.com/juliuspr/on-hornplaying'
+  #   ignoreConfig = true
+  # [[module.imports.mounts]]
+  #     source="content"
+  #     target="content/on-horn-playing"
+  # [[module.imports.mounts]]
+  #     source="layouts"
+  #     target="layouts/on-hornplaying"
   #
-  [[module.imports]]
-    path = 'github.com/juliuspr/on-hornplaying'
-    ignoreConfig = true
-  [[module.imports.mounts]]
-      source="content"
-      target="content/on-horn-playing"
-  [[module.imports.mounts]]
-      source="layouts"
-      target="layouts/on-hornplaying"
-
-  [[module.imports]]
-    path = 'github.com/juliuspr/horn-playing-resources'
-    ignoreConfig = true
-
-  [[module.imports.mounts]]
-      source="content"
-      target="content/on-horn-playing/practical"
+  # [[module.imports]]
+  #   path = 'github.com/juliuspr/horn-playing-resources'
+  #   ignoreConfig = true
+  #
+  # [[module.imports.mounts]]
+  #     source="content"
+  #     target="content/on-horn-playing/practical"
