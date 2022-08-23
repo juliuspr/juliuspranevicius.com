@@ -6,7 +6,7 @@ weight: 30
 ## Ongoing Projects
 ### On Horn Playing
 
-A broad set of resources for advanced horn students and enthusiasts. Check out the [working draft](../on-horn-playing).
+A broad set of resources for advanced horn students and enthusiasts. Check out the [working draft](./on-horn-playing).
 
 The project is in development and changes frequently. Do not hesitate to drop me a line, if you have any feedback or input.
 
