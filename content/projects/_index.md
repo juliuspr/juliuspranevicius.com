@@ -3,18 +3,17 @@ title: Projects
 linkTitle: 💼 Projects
 weight: 30
 ---
-## Ongoing Projects
-### On Horn Playing
+## On Horn Playing
 
-A broad set of resources for advanced horn students and enthusiasts. Check out the [working draft](./on-horn-playing).
+Resources for horn students and enthusiasts. Check out the [working draft](./on-horn-playing).
 
-The project is in development and changes frequently. Do not hesitate to drop me a line, if you have any feedback or input.
+Do not hesitate to drop me a line, if you have any feedback or input.
 
-### Oslo Horns (OH.)
+## OH. (Oslo Horns)
 
 Check out [Oslo Horns website](http://oslohorns.com) and [Instagram](https://www.instagram.com/oslohorns/)
 
-### Elegant Booking
+## Elegant Booking
 
 An interactive calendar that facilitates scheduling lessons.
 
