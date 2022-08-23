@@ -7,5 +7,3 @@ hide_toc: true
 ---
 
 julius.pranevicius@nmh.no
-
-+47 93645146
