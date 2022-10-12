@@ -10,6 +10,8 @@ github.com/juliuspr/horn-playing-resources v0.0.0-20221004110058-ba84dfb08acf h1
 github.com/juliuspr/horn-playing-resources v0.0.0-20221004110058-ba84dfb08acf/go.mod h1:FnEsLC2GJxdfV7r0Wy1V9kMJN94Vuh8xNwM2519DxTo=
 github.com/juliuspr/horn-playing-resources v0.0.0-20221012175103-10e7411b64d1 h1:W1fwKVrKf22jrc1F1Ze+B/NEsaQFnycouapUYJZ97So=
 github.com/juliuspr/horn-playing-resources v0.0.0-20221012175103-10e7411b64d1/go.mod h1:FnEsLC2GJxdfV7r0Wy1V9kMJN94Vuh8xNwM2519DxTo=
+github.com/juliuspr/horn-playing-resources v0.0.0-20221012184329-fb1bb5552709 h1:i7C/RhUKvy2hIJzqYmQFCJw03o4Hd4SZ1YWffods7P0=
+github.com/juliuspr/horn-playing-resources v0.0.0-20221012184329-fb1bb5552709/go.mod h1:FnEsLC2GJxdfV7r0Wy1V9kMJN94Vuh8xNwM2519DxTo=
 github.com/juliuspr/hugo-theme-library v0.0.0-20220311110434-0d99428d9963 h1:VFXAhCzke/wB8Hbcz1+3xXOU3WelyImxqfrZon3/usA=
 github.com/juliuspr/hugo-theme-library v0.0.0-20220311110434-0d99428d9963/go.mod h1:SHR1h+4ifXXqGlsjRpZ+cqQhUKtIbQoRUzYYjuTdIrI=
 github.com/juliuspr/hugo-theme-library v0.0.0-20220922171941-3cd07f2f09a6 h1:eHlqUK/9U6x4qMJmHy57l9g+MUCWqSEFiOXO2GGCkMI=
@@ -28,3 +30,5 @@ github.com/juliuspr/on-hornplaying v0.0.0-20221007140411-5c076503781f h1:YG9cdPN
 github.com/juliuspr/on-hornplaying v0.0.0-20221007140411-5c076503781f/go.mod h1:leyLr6SkGZ65WBi27V0XuyOKw8gkVRrb3fBsYpFf5bM=
 github.com/juliuspr/on-hornplaying v0.0.0-20221012175019-7f4dca7d12c5 h1:MWW+VMNp2G8Ian1PCR2e8Q1E71vxbIv78df0a+bTspM=
 github.com/juliuspr/on-hornplaying v0.0.0-20221012175019-7f4dca7d12c5/go.mod h1:leyLr6SkGZ65WBi27V0XuyOKw8gkVRrb3fBsYpFf5bM=
+github.com/juliuspr/on-hornplaying v0.0.0-20221012181827-92da077b4d90 h1:SXWQ6O4JNDX68b+QMgJy8LbJHbX8Fik2S6zcNlT+0Uw=
+github.com/juliuspr/on-hornplaying v0.0.0-20221012181827-92da077b4d90/go.mod h1:leyLr6SkGZ65WBi27V0XuyOKw8gkVRrb3fBsYpFf5bM=
