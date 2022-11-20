@@ -86,3 +86,5 @@ github.com/juliuspr/on-hornplaying v0.0.0-20221111183359-17a0d2315218 h1:jMpTTkc
 github.com/juliuspr/on-hornplaying v0.0.0-20221111183359-17a0d2315218/go.mod h1:leyLr6SkGZ65WBi27V0XuyOKw8gkVRrb3fBsYpFf5bM=
 github.com/juliuspr/on-hornplaying v0.0.0-20221116093519-0b2914a0e4d0 h1:3+OPRJuy7eZJ/gvEiwDmYEgVXuLhgD1IcoLPP5rL078=
 github.com/juliuspr/on-hornplaying v0.0.0-20221116093519-0b2914a0e4d0/go.mod h1:leyLr6SkGZ65WBi27V0XuyOKw8gkVRrb3fBsYpFf5bM=
+github.com/juliuspr/on-hornplaying v0.0.0-20221120195136-cbae88cc26ac h1:Bl/J8K4JTuXQQyaz1U1L8sR7wWaZtq51PxP8WUK6dUA=
+github.com/juliuspr/on-hornplaying v0.0.0-20221120195136-cbae88cc26ac/go.mod h1:leyLr6SkGZ65WBi27V0XuyOKw8gkVRrb3fBsYpFf5bM=
