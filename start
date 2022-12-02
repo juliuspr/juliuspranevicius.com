@@ -1,3 +1,5 @@
 #! /bin/zsh
 
 hugo serve -D
+cd ../hugo-theme-library &
+npm run dev &
