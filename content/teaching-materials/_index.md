@@ -3,49 +3,48 @@ title: Teaching Materials
 type: "page"
 ---
 
-##	Daily Exercises and Routines  
+## Daily Exercises and Routines
 
-En samling av daglige øvelser med en lett innføring i øvingsmetodikk.
+A collection of Daily Exercises with a gentle introduction to Practicing Methods.
 
-⬇️ [Last ned her](../projects/on-horn-playing/practical/exercises-and-routines/booklet/daily-exercises-and-routines-2020.pdf)
+⬇️ [Download here](../projects/on-horn-playing/practical/exercises-and-routines/booklet/daily-exercises-and-routines-2020.pdf)
 
-##	Mastering Scales  
+## Mastering Scales
 
-En skala-opplegg for yngre studenter.
+A progression for younger students to master scales in every key.
 
-⬇️ [Last ned her](../projects/on-horn-playing/practical/exercises-and-routines/scales-and-chords/mastering-scales/mastering-scales-2021-complete.pdf)
+⬇️ [Download here](../projects/on-horn-playing/practical/exercises-and-routines/scales-and-chords/mastering-scales/mastering-scales-2021-complete.pdf)
 
+## Progressive Etudes (five volumes)
 
+I have developed this etude collection for students in their 1st and 2nd year of their studies. This systematic progression helps to cover important topics: breathing technique, efficient sound production, phrasing and interpretation. The student is supposed to learn a new etude every week. This way the student develops effective practice strategies and the ability to learn fast.
 
-## Progressive Etudes (fem samlinger)
+Work with one volume takes about one semester. Once a volume is completed, the student gets an experience mastery at the end of semester.
 
-Mine etydesamlinger er rettet mot studenter i 1.avdeling (de to første studieårene). Disse gir en systematisk progresjon for å gå gjennom viktigste temaer: pusteteknikk, effektiv klangproduksjon, tolkning og frasering. Ny etyde skal innstuderes hver uke; med dette utvikler studentene effektive øvingsstrategier og evnen til å lære fort.
+- [Vol. 1](resources/vol1.pdf)
+- [Vol. 2](resources/vol2.pdf)
+- [Vol. 3](resources/vol3.pdf)
+- [Vol. 4](resources/vol4.pdf)
+- [Vol. 5](resources/vol5.pdf)
+- [Daily Kopprasch & Franz](resources/daily_kopprasch_and_franz.pdf)
 
-Arbeidet med ett volum varer i ca. ett semester og studentene får en opplevelse av å ha mestret noe konkret på slutten av semesteret.
+## Progressive Orchestra Excerpts (four volumes)
 
-*   [Vol. 1](resources/vol1.pdf)
-*   [Vol. 2](resources/vol2.pdf)
-*   [Vol. 3](resources/vol3.pdf)
-*   [Vol. 4](resources/vol4.pdf)
-*   [Vol. 5](resources/vol5.pdf)
-*   [Daily Kopprasch & Franz (20 Etyder)](resources/daily_kopprasch_and_franz.pdf)
+My collection of Orchestra Excerpts is based on the same philosophy as the etudes (see above). Each volume has 12 excerpts for one semester.
 
-## Progressive Orchestra Excerpts (fire samlinger)
+The level of technical difficulty in the first volume is relatively low, and the student can focus on acquiring learning skills, like listening to recordings, working on phrasing. By Vol. 4 the student will have covered most of the technical challenges. The student is challenged to develop different playing styles required by the different excerpts.
 
-Studier av orkesterlitteratur er en viktig del av utdanningen for hornistene. Disse samlingene er basert på samme filosofi som ovennevnte etyder. Hvert volum presenterer 12 progressivt vanskeligere utdrag som danner et grunnlag for et semesters arbeid.
+The excerpts are put together in a way that gives possibility for playing in groups. This helps to develop the skills of taking different roles in the section.
 
-Utdragene er satt sammen for å utvikle bl.a. transponeringsferdigheter, stilforståelse, og for å gi mulighet til gruppespill. Dette er viktig for samspillsferdighetene og rolleforståelse i en gruppe.
+To facilitate student active learning, I have developed a worksheet for each excerpt. The students have to do their research to fill the worksheet: they have to make decisions on artistic and technical issues.
 
-For å tilrettelegge student-aktiv læring, har jeg utviklet et «worksheet». Studentene må gjøre eget research, ta stilling til kunstneriske og tekniske problemstillingene og gjøre annet forarbeid for å kunne fylle ut feltene i arbeidsarket.
-
-*   [Vol. 1](resources/stellen1.pdf)
-*   [Vol. 2](resources/stellen2.pdf)
-*   [Vol. 3](resources/stellen3.pdf)
-*   [Vol. 4](resources/stellen4.pdf)
-
+- [Vol. 1](resources/stellen1.pdf)
+- [Vol. 2](resources/stellen2.pdf)
+- [Vol. 3](resources/stellen3.pdf)
+- [Vol. 4](resources/stellen4.pdf)
 
 ## Low Horn Book
 
-En samling av etyder for dybde horn [kun en demo].
+I have developed this collection for students to have more variety in their low horn studies. In addition to providing material for improving the low range, this collection is a good tool for practicing sight reading in bass clef.
 
-⬇️ [Last ned her](resources/low_horn_book_demo.pdf)
+⬇️ [Download here](resources/low_horn_book_demo.pdf) (only for demo purposes)
