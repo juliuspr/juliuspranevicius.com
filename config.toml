@@ -50,7 +50,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [module]
   # Set up an OS environment variable, e.g: env HUGO_MODULE_REPLACEMENTS="github.com/bep/myprettytheme -> ../..".
-  # replacements = "github.com/juliuspr/on-hornplaying -> ../../on-hornplaying, github.com/juliuspr/horn-playing-resources -> ../../horn-playing-resources, github.com/juliuspr/hugo-theme-library -> ../../hugo-theme-library"
+  # replacements = "github.com/juliuspr/on-hornplaying -> ../../on-hornplaying, github.com/juliuspr/hugo-theme-library -> ../../hugo-theme-library"
 
   [[module.imports]]
     path = 'github.com/juliuspr/hugo-theme-library'
